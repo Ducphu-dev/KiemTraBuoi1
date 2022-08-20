@@ -1,8 +1,9 @@
 {
   "dependencies": {
-    "nodemon": "^2.0.19"
+    "nodemon": "^2.0.19",
+    "request": "^2.88.2"
   },
   "scripts": {
-    "start": "nodemon index3.js"
+    "start": "nodemon baitapBatDongBo.js"
   }
 }
